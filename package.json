@@ -1,6 +1,5 @@
 {
-  "homepage": "https://raviiiyadav.github.io/icontactlist",
-  "name": "icontactlist",
+ "name": "icontactlist",
   "version": "1.0.0",
   "description": "icontactlist-your icontactlist on cloud",
   "main": "index.js",
